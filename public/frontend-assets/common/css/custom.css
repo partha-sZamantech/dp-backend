@@ -1,0 +1,110 @@
+.special-box .special-sub .single_sub:hover img.img-responsive {
+    transform: scale(1.03);
+    cursor: pointer;
+
+}
+.special-box .special-sub .single_sub img.img-responsive {
+    -webkit-transition: all 200ms  ease-in-out;
+    -moz-transition:   all 200ms  ease-in-out;
+    -ms-transition:     all 200ms  ease-in-out;
+    -o-transition:      all 200ms  ease-in-out;
+    transition:         all 200ms  ease-in-out;
+}
+.special-box .imgbox {
+    overflow: hidden;
+}
+
+.special-box .lead:hover .imgbox img {
+    transform: scale(1.03);
+}
+.special-box .lead .imgbox img {
+    -webkit-transition: all 200ms  ease-in-out;
+    -moz-transition:   all 200ms  ease-in-out;
+    -ms-transition:     all 200ms  ease-in-out;
+    -o-transition:      all 200ms  ease-in-out;
+    transition:         all 200ms  ease-in-out;
+}
+.row.news-top-middle-other .imgbox-sm {
+    overflow: hidden;
+}
+
+.row.news-top-middle-other:hover .imgbox-sm img {
+    transform: scale(1.04);
+}
+.row.news-top-middle-other .imgbox-sm img {
+    -webkit-transition: all 200ms  ease-in-out;
+    -moz-transition:   all 200ms  ease-in-out;
+    -ms-transition:     all 200ms  ease-in-out;
+    -o-transition:      all 200ms  ease-in-out;
+    transition:         all 200ms  ease-in-out;
+}
+
+.categoryeffect .row.lead .imgbox {
+    overflow: hidden;
+}
+
+.categoryeffect .row.lead:hover .imgbox img {
+    transform: scale(1.03)
+}
+.categoryeffect .row.lead .imgbox img {
+    -webkit-transition: all 200ms  ease-in-out;
+    -moz-transition:   all 200ms  ease-in-out;
+    -ms-transition:     all 200ms  ease-in-out;
+    -o-transition:      all 200ms  ease-in-out;
+    transition:         all 200ms  ease-in-out;
+}
+.categoryeffect .media .imgbox {
+    overflow: hidden;
+}
+.categoryeffect .media:hover .imgbox img{
+    transform: scale(1.05)
+}
+.categoryeffect .media .imgbox img{
+    -webkit-transition: all 200ms  ease-in-out;
+    -moz-transition:   all 200ms  ease-in-out;
+    -ms-transition:     all 200ms  ease-in-out;
+    -o-transition:      all 200ms  ease-in-out;
+    transition:         all 200ms  ease-in-out;
+}
+
+
+.cat-box .imgbox {
+    overflow: hidden;
+}
+.cat-box:hover .imgbox img {
+    transform: scale(1.03);
+
+}
+.cat-box .imgbox img{
+    -webkit-transition: all 200ms  ease-in-out;
+    -moz-transition:   all 200ms  ease-in-out;
+    -ms-transition:     all 200ms  ease-in-out;
+    -o-transition:      all 200ms  ease-in-out;
+    transition:         all 200ms  ease-in-out;
+}
+.cat-box-with-media .media div {
+    overflow: hidden;
+}
+.cat-box-with-media:hover .media div img {
+    transform: scale(1.01);
+}
+.cat-box-with-media .media div img {
+    -webkit-transition: all 200ms  ease-in-out;
+    -moz-transition:   all 200ms  ease-in-out;
+    -ms-transition:     all 200ms  ease-in-out;
+    -o-transition:      all 200ms  ease-in-out;
+    transition:         all 200ms  ease-in-out;
+}
+.cat-box-with-media .cat-box-sub .imgbox {
+    overflow: hidden;
+}
+.cat-box-with-media .cat-box-sub:hover .imgbox img {
+    transform: scale(1.03);
+}
+.cat-box-with-media .cat-box-sub .imgbox img {
+    -webkit-transition: all 200ms  ease-in-out;
+    -moz-transition:   all 200ms  ease-in-out;
+    -ms-transition:     all 200ms  ease-in-out;
+    -o-transition:      all 200ms  ease-in-out;
+    transition:         all 200ms  ease-in-out;
+}

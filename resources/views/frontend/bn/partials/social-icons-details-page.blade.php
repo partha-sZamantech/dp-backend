@@ -1,0 +1,4 @@
+<div class="fb-like" data-href="https://www.facebook.com/dhakaprokash24" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="false"></div>
+
+<div class="fb-share-button" data-href="{{$sURL}}" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{$sURL}}&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore"></a></div>
+{{--<iframe src="https://www.facebook.com/plugins/share_button.php?href={{$sURL}}&layout=button_count&size=large&width=105&height=28&appId" width="105" height="28" style="width: 105px; border: none; overflow: hidden; margin-bottom: 5px;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>--}}

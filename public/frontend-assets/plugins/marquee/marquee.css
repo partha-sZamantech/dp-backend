@@ -1,0 +1,44 @@
+.marquee-block{
+    position: relative;
+    margin-top: -10px;
+}
+@media screen and (max-width: 767px) {
+    .marquee-block{
+        margin-top: 0px;
+    }
+}
+.marquee-block h2 {
+    height: 34px;
+    font-size: 18px;
+    position: absolute;
+    background: #d84315;
+    color: #fff;
+    margin-top: 0!important;
+    padding: 7px 10px;
+}
+.marquee {
+    width: 100%;
+    overflow: hidden;
+    background: #f1f1f1;
+    list-style: none;
+    height: 34px;
+    display: inline-block;
+    padding: 0;
+}
+.marquee li{
+    display: inline-block;
+    padding-right:15px;
+    padding-left:15px;
+}
+.marquee li a {
+    padding: 8px;
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+.marquee li a:hover {
+    color: #ff5722;
+}
+.marquee li i{
+    display: inline-block;
+}

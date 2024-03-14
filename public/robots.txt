@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dhakaprokash24.com/news-sitemap.xml
+Sitemap: https://www.dhakaprokash24.com/english/news-sitemap.xml
